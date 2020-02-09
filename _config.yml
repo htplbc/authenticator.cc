@@ -13,4 +13,5 @@ exclude:
   - .gitignore
   - .vscode
   
-include: [".well-known"]
+include:
+  - ".well-known"
